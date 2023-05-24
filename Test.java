@@ -6,5 +6,6 @@ public class Test {
         System.out.println("-------------------------------");
 
         System.out.println("Another new line***********");
+	System.out.println("More lines...");
     }
 }
